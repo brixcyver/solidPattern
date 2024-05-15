@@ -1,5 +1,7 @@
 # Solid Principle with Design Pattern
 
+## Problem Statement:  
+
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
 Currently, the Student object has methods like borrowBook(), borrowJournal() with a parameter of title, which directly depend on specific resource types.
